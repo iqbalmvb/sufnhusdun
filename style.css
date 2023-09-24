@@ -1,0 +1,44 @@
+body {
+  background-color: #f5f5f5;
+}
+
+header {
+  background-color: #000;
+  color: #fff;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 24px;
+  margin-top: 0;
+}
+
+nav {
+  float: right;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #fff;
+}
+
+section {
+  padding: 20px;
+}
+
+img {
+  width: 100%;
+}
+
+footer {
+  background-color: #000;
+  color: #fff;
+  padding: 20px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
